@@ -5,12 +5,12 @@ Simple REST API application using GOLANG [/net/http &amp; mux]
 
 | URL | METHOD |
 | - | - |
-| [http://127.0.0.1:8888/][Plme] | GET |
-| [http://127.0.0.1:8888/list/][Plme] | GET |
-| [http://127.0.0.1:8888/retrieve/{id}][Plme] | GET |
-| [http://127.0.0.1:8888/add/][Plme] | POST |
-| [http://127.0.0.1:8888/delete/{id}][Plme] | DELETE |
-| [http://127.0.0.1:8888/update/][Plme] | PUT |
+| [http://127.0.0.1:8888/][PlMe] | GET |
+| [http://127.0.0.1:8888/list/][PlMe] | GET |
+| [http://127.0.0.1:8888/retrieve/{id}][PlMe] | GET |
+| [http://127.0.0.1:8888/add/][PlMe] | POST |
+| [http://127.0.0.1:8888/delete/{id}][PlMe] | DELETE |
+| [http://127.0.0.1:8888/update/][PlMe] | PUT |
 
 
 > Note: `{id} refers to the aadharNumber in this application. Do not put bracket in URL.`
