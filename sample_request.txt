@@ -1,0 +1,25 @@
+{
+    "FullName": "",
+    "age": 0,
+    "ContactDetails": {
+        "emailid": "",
+        "mobileNumber": 0,
+        "address": ""
+    },
+    "exp": "",
+    "aadharNumber": "",
+    "BirthDate": ""
+}
+
+{
+    "FullName": "Avinash Ghadshi",
+    "age": 28,
+    "ContactDetails": {
+        "emailid": "avinashghadshi93@gmail.com",
+        "mobileNumber": 8655451575,
+        "address": "Panvel"
+    },
+    "exp": "5 Years 2 Months",
+    "aadharNumber": "445299642846",
+    "BirthDate": "30/10/1993"
+}
